@@ -32,7 +32,7 @@ namespace MyDoctorAppointment
 
             var newDoctor = new Doctor
             {
-                Name = "Vasya",
+                Name = "Petya",
                 Surname = "Petrov",
                 Experience = 20,
                 DoctorType = Domain.Enums.DoctorTypes.Dentist
