@@ -14,7 +14,7 @@ namespace MyDoctorAppointment.Data.Repositories
         {
             dynamic result = ReadFromAppSettings();
 
-            Path = result.Database.Doctors.Path;
+            Path = System.IO.Path.GetFullPath((string)result.Database.Doctors.Path, AppContext.BaseDirectory);
             LastId = result.Database.Doctors.LastId;
         }
 
