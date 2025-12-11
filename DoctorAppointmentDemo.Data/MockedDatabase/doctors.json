@@ -22,5 +22,53 @@
     "Id": 3,
     "CreatedAt": "2024-01-04T21:15:10.6132587+02:00",
     "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "DoctorType": 1,
+    "Experience": 20,
+    "Salary": 0.0,
+    "Name": "Petya",
+    "Surname": "Petrov",
+    "Phone": null,
+    "Email": null,
+    "Id": 13,
+    "CreatedAt": "2025-11-30T16:03:48.2872766+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "DoctorType": 1,
+    "Experience": 20,
+    "Salary": 0.0,
+    "Name": "Petya",
+    "Surname": "Petrov",
+    "Phone": null,
+    "Email": null,
+    "Id": 14,
+    "CreatedAt": "2025-12-10T18:25:56.4160632+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "DoctorType": 2,
+    "Experience": 1,
+    "Salary": 0.0,
+    "Name": "Andrii",
+    "Surname": "Stohnii",
+    "Phone": null,
+    "Email": null,
+    "Id": 16,
+    "CreatedAt": "2025-12-10T19:47:07.0029781+02:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "DoctorType": 2,
+    "Experience": 1,
+    "Salary": 0.0,
+    "Name": "B",
+    "Surname": "B",
+    "Phone": null,
+    "Email": null,
+    "Id": 17,
+    "CreatedAt": "2025-12-11T15:15:10.3922774+02:00",
+    "UpdatedAt": "2025-12-11T15:15:50.9768657+02:00"
   }
 ]
